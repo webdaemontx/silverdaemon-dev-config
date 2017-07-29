@@ -1,0 +1,32 @@
+{
+  "name": "seanhanford",
+  "version": "1.0.0",
+  "description": "Local MacOS Sierra 10.12.6 configuration settings for development.",
+  "main": ".hyper.js",
+  "dependencies": {
+    "hpm-cli": "^2.0.1",
+    "hyper-blink": "^1.1.2",
+    "hyper-statusline": "^1.7.2",
+    "hypergoogle": "^0.0.2",
+    "hyperterm-monokai": "^0.1.2",
+    "hypertheme": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdaemontx/webdaemon-development-configuration-settings.git"
+  },
+  "keywords": [
+    "silverdaemon",
+    "zsh"
+  ],
+  "author": "Sean Hanford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdaemontx/webdaemon-development-configuration-settings/issues"
+  },
+  "homepage": "https://github.com/webdaemontx/webdaemon-development-configuration-settings#readme"
+}
